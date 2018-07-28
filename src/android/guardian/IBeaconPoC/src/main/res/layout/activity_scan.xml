@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:orientation="vertical"
+    tools:context=".ScanActivity">
+
+    <ImageButton
+        android:id="@+id/scanButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="onScanButtonClicked"
+        android:src="@drawable/cognita_logo"
+        android:textAlignment="center"
+        android:visibility="visible" />
+    <EditText
+        android:id="@+id/stop1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_span="2"
+        android:inputType="textCapSentences|textMultiLine"
+        android:text="Harry Potter, Class : 2A"
+        android:singleLine="false"
+        android:textStyle="bold"
+        android:autoText="true"
+        android:textSize="25dp"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:src="@drawable/harry" />
+
+    <EditText
+        android:id="@+id/harry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:autoLink="phone"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="textMultiLine"
+        android:linksClickable="true"
+        android:longClickable="false"
+        android:text="Mrs. Lily Potter (Primary Guardian)"
+        android:textIsSelectable="true" />
+
+
+    <EditText
+        android:id="@+id/detailView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:autoText="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="text|textMultiLine"
+        android:linksClickable="true"
+        android:longClickable="false"
+        android:textIsSelectable="true" android:autoLink="phone"
+
+        android:text="Route: Grimmauld Place Loop\n\nRoute Code: 101A\n\nCaptain: Stan Shunpike (+6504200420)"
+        android:textSize="20dp" /> <EditText
+    android:id="@+id/controlroomdetails"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_column="0"
+    android:autoText="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:inputType="text|textMultiLine"
+    android:linksClickable="true"
+    android:longClickable="false"
+    android:textIsSelectable="true" android:autoLink="phone"
+
+    android:text="Traffic Control Room: +6512345678"
+    android:textColorLink="#fe0303" />
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Not Attending School"
+        android:id="@+id/switch1" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"  android:drawSelectorOnTop="true"
+        android:entries="@array/reasons" >
+
+    </Spinner>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scanScrollView" >
+
+        <EditText
+            android:id="@+id/scanText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:autoLink="phone"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:inputType="textMultiLine"
+            android:linksClickable="true"
+            android:longClickable="false"
+            android:text="Scanning Log..."
+            android:textIsSelectable="true" />
+
+
+    </ScrollView>
+
+
+</LinearLayout>

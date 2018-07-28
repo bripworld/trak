@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Operator SmartBus</string>
+    <string name="Settings">Settings</string>
+    <string name="action_listfiles">List files</string>
+    <string name="action_deletefiles">Delete Files</string>
+    <string name="action_transferfiles">Transfer Files</string>
+    <string name="action_email_string">Transfer Files</string>
+</resources>
