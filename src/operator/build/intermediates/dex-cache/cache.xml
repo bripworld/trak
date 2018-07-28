@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_fc7f250db879ff21573e98f59091220922b74d18\classes.dex" />
+    </item>
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\build\intermediates\exploded-aar\operator\googleplayservices_lib\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="233226ec9d931ea89eccd238ec3f2488ed387c10">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\8\google-play-services_27a1c1e826830377ac46ce8c4f30696f9a11f889\classes.dex" />
+    </item>
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="5b1ddefa1545703cf5c82c2d80f2b19d7fad64eb">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48cf4e3b4b00e83b6c624cc05f4b58f1c819705f\classes.dex" />
+    </item>
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.9.1\jars\classes.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="0b271af1568b43a528bba26d19c5874bb91c34cd">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\10\org.altbeacon-android-beacon-library-2.9.1_a0a7f7778a1a365efeb62da6736f8996cb7e05f0\classes.dex" />
+    </item>
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="b624faa7d75a61d902b0d89146f84eca2f015fcf">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e384872df36b21537e52d4f36c01b4f79c6ae58\classes.dex" />
+    </item>
+    <item
+        jar="E:\TrakKids\operator\IBeaconPoC\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="E:\TrakKids\operator\IBeaconPoC\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_840ad81102e06cc239931c86c168770152d4dbe6\classes.dex" />
+    </item>
+
+</items>

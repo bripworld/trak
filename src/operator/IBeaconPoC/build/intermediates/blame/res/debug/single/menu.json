@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_actions.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\menu\\main_activity_actions.xml"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\menu\\listfiles_activity_actions.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\menu\\listfiles_activity_actions.xml"
+    }
+]

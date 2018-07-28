@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_notif.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-ldpi\\ic_notif.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\layout\\file_list_item.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\layout\\file_list_item.xml"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\layout\\list_group.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filelist.xml",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\layout\\activity_filelist.xml"
+    }
+]

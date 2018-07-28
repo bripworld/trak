@@ -1,0 +1,5 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[103.843549,1.274929]},"properties":{"id":1,"name":"Student 1","pin":79027,"address":"100 AM 100 TRAS STREET","type":"home"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.857822,1.324803]},"properties":{"id":333,"name":"Harry Potter","pin":320074,"address":"MARINE PARADE TOWN COUNCIL - MARINE TERRACE OFFICE 50 MARINE TERRACE","type":"home"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.841239,1.287159]},"properties":{"id":488,"name":"Hermione Granger","pin":160054,"address":"POSB BLOCK 160 ANG MO KIO 160 ANG MO KIO AVENUE 4","type":"home"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.8416,1.276079]},"properties":{"id":707,"name":"Ron Weasley","pin":89774,"address":"TANJONG PAGAR COMMUNITY CLUB 101 CANTONMENT ROAD","type":"home"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[103.858967,1.295968]},"properties":{"id":810,"name":"Student 810","pin":38983,"address":"SUNTEC CITY MALL (GRANDMAS PROUDLY","type":"home"}}]}

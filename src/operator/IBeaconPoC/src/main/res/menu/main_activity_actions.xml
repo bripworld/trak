@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <!-- List Files - will appear as an action button -->
+    <item
+        android:id="@+id/action_listfiles"
+        android:icon="@drawable/ic_launcher"
+        android:title="@string/action_listfiles" />
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/about" android:icon="@drawable/ic_launcher"
+        android:title="About" />
+    <item
+    android:id="@+id/Settings"
+        android:icon="@android:drawable/ic_menu_agenda"
+    android:title="@string/Settings" />
+
+</menu>

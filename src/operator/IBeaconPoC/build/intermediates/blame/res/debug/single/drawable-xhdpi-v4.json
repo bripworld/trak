@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\harry.jpg",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\harry.jpg"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_email.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_remove.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_copy.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hermione.jpg",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\hermione.jpg"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\draco.jpg",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\draco.jpg"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ron.jpg",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xhdpi\\ron.jpg"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\exploded-aar\\operator\\googleplayservices_lib\\unspecified\\res\\drawable-xhdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png"
+    }
+]

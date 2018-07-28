@@ -1,0 +1,4 @@
+Public DNS	ec2-54-254-213-149.ap-southeast-1.compute.amazonaws.com
+User name	Administrator
+Password	
+5AA&dxSCiqP;%Y.xNg$js;2UgmfrYu(G

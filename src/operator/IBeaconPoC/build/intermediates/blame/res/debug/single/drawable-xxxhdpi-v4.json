@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\TrakKids\\operator\\IBeaconPoC\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\cognita_logo.png",
+        "source": "E:\\TrakKids\\operator\\IBeaconPoC\\src\\main\\res\\drawable-xxxhdpi\\cognita_logo.png"
+    }
+]

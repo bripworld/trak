@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    jcenter()
+
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.0.0"
+
+    defaultConfig {
+        applicationId "sg.smartbus.guardian"
+        minSdkVersion 18
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    dependencies {
+        compile 'org.altbeacon:android-beacon-library:2+'
+        compile 'com.android.volley:volley:1.0.0'
+
+    }
+    compile project(':googleplayservices_lib')
+    compile files('libs/android-support-v4.jar')
+}
