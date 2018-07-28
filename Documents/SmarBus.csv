@@ -1,0 +1,335 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Component/s,Due Date,Votes,Description,Environment,Watchers,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Custom field (Epic Name),Custom field (Epic Status),Custom field (Organizations),Custom field (Parent Link),Custom field (Raised during),Custom field (Rank),Custom field (Story Points),Custom field (Team),Custom field (Test sessions),Custom field (Testing status),Custom field ([CHART] Date of First Response)
+Student Module,SUB-24,10023,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:08,09-11-2016 15:08,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-6,,iBeacon Module,To Do,,,,0|hzzzzz:,,,,Not started,
+Guardian Module,SUB-25,10024,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:09,12-12-2016 21:55,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-8,,IOS&Android - Parent App,To Do,,,,0|i00007:,,,,Not started,
+Bus Module,SUB-26,10025,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:10,09-11-2016 15:52,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-2,,3rd Party API Integration,To Do,,,,0|i0000f:,,,,Not started,
+Route Module,SUB-27,10026,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:11,12-12-2016 21:19,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-12,,Web Admin - Communication,To Do,,,,0|i0000n:,,,,Not started,
+Route Planner,SUB-28,10027,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:20,08-12-2016 08:40,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-11,,Web Admin - Route Planning ,To Do,,,,0|i0000v:,,,,Not started,
+Guardian App,SUB-29,10028,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:22,12-12-2016 21:05,13-02-2017 08:54,,Guardian App,,0,,,admin,,,,,,,,,{},ghx-label-5,,Web Admin - Calendar,To Do,,,,0|i00013:,,,,Not started,
+Bus Coordinator App,SUB-30,10029,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:23,12-12-2016 21:50,13-02-2017 08:54,,Bus Coordinator App,,0,,,admin,,,,,,,,,{},ghx-label-14,,Android - Bus Assistant App ,To Do,,,,0|i0001b:,,,,Not started,
+Dashboard,SUB-31,10030,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:24,12-12-2016 21:04,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-3,,Web Admin - Route Execution,To Do,,,,0|i0000z:,,,,Not started,
+Role Based Access,SUB-32,10031,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 08:24,23-10-2016 10:02,13-02-2017 08:54,,Web Administration,,0,,,admin,,,,,,,,,{},ghx-label-4,,Role Based Access,To Do,,,,0|i0001r:,,,,Not started,
+Ability to add/delete student details ,SUB-33,10032,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 21:57,06-01-2017 11:07,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to add/delete the address details of all students taking bus routes to and from school 
+So That the bus route has accurate address details of each student 
+
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria - 1* 
+All student’s pick up and drop off address are identified on the system with the following details 
+-	Student’s full name 
+-	Unit number
+-	Street number
+-	Street name
+-	Condominium name 
+-	Suburb
+-	Postcode 
+-	Student mobile *
+-	Student email 
+
+*Acceptance criteria – 2 *
+If the student has alternate residential address also identify on the system 
+
+*Acceptance criteria – 3*
+If the student has alternate pick up or drop off address also identify on the system 
+
+*Acceptance criteria – 4*
+Class (Pre K, KG1, KG2, Grade 1-12) 
+-	Teacher Name 
+-	Teacher Assistant Name 1
+-	Teachers Assistant Name 2 
+
+*Acceptance criteria – 5*
+Child Photo (not applicable for summer camp bus routes)
+
+*Acceptance criteria – 6 *
+Child Notes 
+-	Motion Sickness/illness/Other
+
+*Acceptance criteria – 7*
+Ability to delete the address details of the student 
+
+
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i00027:,,,,Not started,
+Ability to add/delete parent/guardian details ,SUB-34,10033,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,admin,admin,23-10-2016 09:34,09-11-2016 20:26,13-02-2017 08:54,,Web Administration,,0,"As a School Transport Coordinator
+I Want to add/delete parent/guardians details 
+So That those parent/guardians details are added/deleted and students requiring a guardian are identified on the system as a primary concern for the school transport department
+
+*+Acceptance Criteria+*
+
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+Ability to associate a student to a parent(s)/guardian(s) (one or many)
+
+*Acceptance Criteria 2*
+Ability to identify student’s requiring a guardian 
+
+*Acceptance Criteria 3*
+Ability to add parent/guardian details
+- Parent/Guardian’s full name (First Name, Middle Name, Last Name)  
+- Parent/Guardian’s relationship to student (Father/Mother/Helper/Other)
+- Parent/Guardian contact details (mobile, work phone, home phone, email)  
+
+*Acceptance Criteria 4*
+Ability to delete parent/guardian details",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0002d:,,,,Not started,
+Ability to add/delete bus driver/bus assistant details,SUB-35,10034,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:00,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to add/delete the bus details, bus driver and bus assistant contact details (full name, IC, address and mobile) and allocation to bus route
+So That I am able to contact bus driver and or bus assistant 
+
+*Acceptance Criteria *
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria - 1*
+Bus Driver Details
+-	Fist Name, Last Name, Driver’s License, Contact Number   
+
+*Acceptance Criteria – 2*
+Bus Assistant Details
+-	Fist Name, Last Name, Drivers License, Contact Number
+
+*Acceptance Criteria – 3*
+Vehicle Details 
+-	Bus Type/Model
+-	Max Seat Capacity 
+-	Current Seat Capacity  
+-	Registration
+-	Year of operation
+-	Service History Date
+-	Major Service Date
+
+*Acceptance Criteria – 4*
+Bus Operator 
+- Company Name 
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0002j:,,,,Not started,
+Ability add/delete bus-operator details,SUB-36,10035,Story,To Do,SUB,SUB,software,admin,,,Medium,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:01,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator 
+I Want to add/delete bus-operator details 
+So That I can add/delete details of Bus Operator 
+
+*Acceptance Criteria*
+
+*Acceptance Criteria 1*
+- Company Name
+- Company Address
+- Company Contact Details (Telephone, Website, Email) 
+- Contact Person ",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i00037:,,,,Not started,
+Ability to create bus route and associate student to a selected bus route (both to school and from school),SUB-37,10036,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:01,13-02-2017 08:54,,Bus Route Planning,,0,,,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0002v:,,,,Not started,
+Allocate iBeacon and register students,SUB-38,10037,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,ben.tee,admin,23-10-2016 09:34,08-12-2016 08:41,13-02-2017 08:54,,Web Administration,,0,"+As a+ School IT Staff Member
++I Want+ to allocate student iBeacon to existing and new students 
++So That+ each student is allocated a unique iBeacon 
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteri",,admin,,,,,,,,,{},,SUB-24,,,,,,0|i0003l:qy,,,,Not started,
+Ability to create bus routes plan and save as templates,SUB-40,10039,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:01,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator 
+I Want the ability to create bus route and associate student to a selected bus route (both to school and from school)
+So that I can create a bus route and save as a template 
+
+*Acceptance Criteria *
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+Ability to select a calendar to mark week beginning to create the bus route 
+(bus route creation done on a Wednesday and approved on Thursday)
+
+*Acceptance Criteria 2*
+Ability to have an effective from date and effective to date for bus route 
+
+*Acceptance criteria – 3*
+Ability to associate child passenger address to bus route AM/PM
+
+*Acceptance criteria – 4	*
+Ability to associate child passenger address to one bus route only (AM/PM)
+
+*Acceptance criteria – 5*	
+Ability to associate child passenger address to bus route AM/PM for 7 days in advance
+
+*Acceptance criteria – 6	*
+Ability to associate two bus routes for a given child passenger for a PM route 
+
+-	PM there is a co-circular bus that a child passenger may take in addition to being allocated his normal PM bus route.
+-	Co-circular bus routes are for students who stay behind class and attend co-circular activities. They are allocated to a separate bus route
+-	The system must still allocate the seat to the child passenger normal PM bus route. Seat must be marked as allocated but denote that child is not going to take the bus as he/she taking co-circular bus
+
+*Acceptance criteria – 7*	
+Ability to associate a child passenger address to a different AM and PM address vice versa (example in morning the child passenger may get picked up from stop A and dropped off at stop B)
+
+*Acceptance criteria – 8*	
+Ability to remove or add child passengers to bus route on daily basis
+
+*Acceptance criteria – 9*	
+Ability to remove or add a bus stop to a bus route on a daily basis 
+
+*Acceptance criteria – 10*	
+Ability to calculate and enforce a rule not to allow a child to be on a bus route for more than 45 minute. Do not allow bus route to be created when such breach. 
+
+*Acceptance criteria – 11*	
+Ability to calculate total distance of bus route in KM
+
+*Acceptance criteria – 12*
+Ability to display estimated total time of route
+
+*Acceptance criteria – 13*
+Ability to + Add or – Subtract Bus Routes from Bus Route Planner
+
+*Acceptance criteria – 14*	
+Ability after bus routes is finalized and rules (no child on bus route for >45 mins) are adhered to send for verification
+-	Verification must be approved by authenticator 
+
+*Acceptance criteria – 15*	
+Ability to delete child details from database if child no longer at school
+
+*Acceptance criteria – 16*	
+Ability to delete child details from database if child no longer taking bus (must be notified by parent through to transport co coordinator)
+
+*Acceptance criteria – 17*
+Ability to save route as a template 
+
+
+
+
+
+
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003j:,,,,Not started,
+Bus Route Display - distance and expected time of arrival at each bus stop and final destination,SUB-41,10040,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:01,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator 
+I Want to the ability to display bus route with expected time of arrival at each bus stop and final destination
+So That I can view bus route arrival time along the bus route 
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+- bus route planner calculates distance in kms/miles from first stop to final stop 
+- bus route planner calculates distance in kms/miles between stops
+
+*Acceptance Criteria 2*
+- bus route planner calculates expected time of arrival from first stop to final stop 
+- bus route planner calculates expected time of arrival between stops
+
+
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003k:,,,,Not started,
+Bus Route Display - using map technology for selected or all bus routes,SUB-42,10041,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:02,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to view the bus route using a map display for one or many bus routes 
+So that I can see a visual display of bus routes
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+- display a selected bus route on a google maps display 
+- display a selection of bus routes on a google maps display 
+- display all bus routes on google maps display
+
+
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003k:i,,,,Not started,
+Bus Route Display - bus route traffic hotspots (heavy conditions) in real time,SUB-43,10042,Story,To Do,SUB,SUB,software,admin,,,Medium,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:03,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to view the bus route traffic hotspots (heavy conditions) using a google map display 
+So that I can see a visual display of bus routes and traffic hotspots
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+- Traffic hotspots indicated on bus route with different color 
+- Traffic hotspots indicated with time of segment   ",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003k:m,,,,Not started,
+Bus Route Display - bus route in summary form ,SUB-44,10043,Story,To Do,SUB,SUB,software,admin,,,Medium,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:02,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to view the bus routes planned in summary form
+So that I can see a summary visual display of all bus routes 
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+- Bus Route Number
+- Bus Route Segment (North, South, East, West)
+- Vehicle Registration
+- Bus Seat Capacity
+- Bus Driver
+- Bus Assistant
+- Number of bus stops along bus route
+- Number of students allocated to bus route 
+- Total distance kms/miles of bus route
+- Total estimated time of bus route
+- Any Breaches of Regulations and Rules  (i.e. no longer than 45 minute bus route)
+- Date/Time Creation of Bus Route 
+- Authorized bus route (four eye check)
+",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003k:k,,,,Not started,
+Bus Route Display - bus route display in detail form ,SUB-45,10044,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:03,13-02-2017 08:54,,Bus Route Planning,,0,"As a School Transport Coordinator
+I Want to view the bus routes planned in detail form
+So that I can see a detail visual display of all bus routes 
+
+*Acceptance Criteria*
+The above functionality will be deemed acceptable when the following criteria has been satisfied
+
+*Acceptance Criteria 1*
+- Bus Route Number
+- Bus Route Segment (North, South, East, West)
+- Vehicle Registration
+- Bus Seat Capacity
+- Bus Driver
+- Bus Assistant
+- Number of bus stops along bus route
+- Bus stop addresses
+- Number of students allocated to bus route 
+- Student names
+- Student Pictures
+- Total distance kms/miles of bus route
+- Total estimated time of bus route
+- Any Breaches of Regulations and Rules  (i.e. no longer than 45 minute bus route)
+- Date/Time Creation of Bus Route
+- Authorized bus route (four eye check)
+
+*Acceptance Criteria 2*
+- Display is configurable to hide or add more bus route information 
+
+*Acceptance Criteria 3*
+- Display has google map view of bus route 
+- Display bus stop addresses along bus routes and associated students and their associated parents/guardians if required
+- Display potential hotspots/traffic jam areas along bus route 
+- Display estimate time of total bus route on map 
+- Display 
+
+*Acceptance Criteria 4*
+- Display uses icons and has dashboard not grid look and feel 
+
+*Acceptance Criteria 5*
+- Ability to display up to 4 detail bus route views in one web page
+
+
+ ",,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003k:l,,,,Not started,
+Ability to enforce bus route regulations and rules,SUB-46,10045,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:03,13-02-2017 08:54,,Bus Route Planning,,0,,,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003l:4,,,,Not started,
+Ability to display bus route progress in summary form in real time,SUB-47,10046,Story,To Do,SUB,SUB,software,admin,,,Low,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:04,13-02-2017 08:54,,Bus Route Execution,,0,,,admin,,,,,,,,,{},,SUB-31,,,,,,0|i0003l:5,,,,Not started,
+Ability to display bus route progress in detail form in real time,SUB-48,10047,Story,To Do,SUB,SUB,software,admin,,,Lowest,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:04,13-02-2017 08:54,,Bus Route Execution,,0,,,admin,,,,,,,,,{},,SUB-31,,,,,,0|i0003l:5i,,,,Not started,
+Ability to remove a student from route/school,SUB-49,10048,Story,To Do,SUB,SUB,software,admin,,,High,,ben.tee,admin,admin,23-10-2016 09:34,12-12-2016 22:03,13-02-2017 08:54,,Bus Route Planning,,0,,,admin,,,,,,,,,{},,SUB-28,,,,,,0|i0003l:4i,,,,Not started,
+Ability to be alerted (message notification + display alert) if a student is not on boarded/off boarded at his or her designated bus stop using Beacon technology,SUB-50,10049,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:04,13-02-2017 08:54,,Bus Route Execution,,0,,,admin,,,,,,,,,{},,SUB-31,,,,,,0|i0003l:d,,,,Not started,
+Ability be alerted (message notification + display alert) if a student is not accounted by parent/guardian using Beacon technology,SUB-51,10050,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:16,13-02-2017 08:54,,Bus Route Execution,,0,,,admin,,,,,,,,,{},,SUB-31,,,,,,0|i0003l:i,,,,Not started,
+Ability to view and search student absenteeism through calendar function,SUB-52,10051,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:16,13-02-2017 08:54,,Calendar,,0,,,admin,,,,,,,,,{},,SUB-29,,,,,,0|i0003l:n,,,,Not started,
+Ability to receive message notification from bus driver/bus assistant ,SUB-53,10052,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:18,13-02-2017 08:54,,Communication,,0,,,admin,,,,,,,,,{},,SUB-27,,,,,,0|i0003l:p,,,,Not started,
+Ability to receive message notification on student bus booking confirmation from parents/guardians,SUB-54,10053,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:18,13-02-2017 08:54,,Communication,,0,,,admin,,,,,,,,,{},,SUB-27,,,,,,0|i0003l:pi,,,,Not started,
+"Ability to send message notification to parents/guardians on bus route information i.e. delays, emergencies etc ",SUB-55,10054,Story,To Do,SUB,SUB,software,admin,,,Medium,,,admin,admin,23-10-2016 09:34,12-12-2016 22:18,13-02-2017 08:54,,Communication,,0,,,admin,,,,,,,,,{},,SUB-27,,,,,,0|i0003l:qi,,,,Not started,
+Ability to send message notification to bus drivers/bus assistant ,SUB-56,10055,Story,To Do,SUB,SUB,software,admin,,,Low,,,admin,admin,23-10-2016 09:34,12-12-2016 22:18,13-02-2017 08:54,,Communication,,0,,,admin,,,,,,,,,{},,SUB-27,,,,,,0|i0003l:qs,,,,Not started,
+Ability to report on various metrics captured within the system i.e. Bus Arrival to School (AM) (Final Stop),SUB-57,10056,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:18,13-02-2017 08:54,,Reporting,,0,,,admin,,,,,,,,,{},,SUB-60,,,,,,0|i0003l:qt,,,,Not started,
+Ability to view bus route and associated bus stops with student passengers ,SUB-58,10057,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:19,13-02-2017 08:54,,Bus Route Planning,,0,,,admin,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qti,,,,Not started,
+Ability to view student passengers and their associated parents/guardians,SUB-59,10058,Story,To Do,SUB,SUB,software,admin,,,High,,,admin,admin,23-10-2016 09:34,12-12-2016 22:19,13-02-2017 08:54,,Bus Route Planning,,0,,,admin,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qu,,,,Not started,
+Web Admin - Reporting Portal ,SUB-60,10100,Epic,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,09-11-2016 14:08,12-12-2016 21:26,13-02-2017 08:54,,,,0,,,ben.tee,,,,,,,,,{},ghx-label-2,,Web Admin - Reporting Module,To Do,,,,0|i0000j:,,,,Not started,
+Allocate students registered  iBeacon to parent/guardian,SUB-61,10101,Story,To Do,SUB,SUB,software,admin,,,Medium,,ben.tee,ben.tee,ben.tee,09-11-2016 15:08,09-11-2016 16:38,13-02-2017 08:54,,Web Administration,,0,"+As a+ School IT Staff Member
++I Want+ to allocate students registered iBeacon card to student’s parent/guardian (one or multiple) for those students who require a guardian to assist the student on/off the bus
++So That+ each student’s parent/guardia",,ben.tee,,,,,,,,,{},,SUB-24,,,,,,0|i0003l:qw,,,,Not started,
+API for 3rd Party Integration,SUB-62,10102,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,09-11-2016 15:52,09-11-2016 15:57,13-02-2017 08:54,,,,0,"+As a+ an School IT Staff Member
++I Want +the smart bus key data exposed in third party applications
++So That+ I can consolidate data to third party applications 
+
+*Acceptance Criteria* 
+The above functionality will be deemed acceptable when the foll",,ben.tee,,,,,,,,,{},,SUB-26,,,,,,0|i0003l:r,,,,Not started,
+Ability to view bus stops completed and student passengers accounted in real time,SUB-63,10200,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:36,12-12-2016 21:36,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qv,,,,Not started,
+Ability to be alerted to the relevant students passenger bus stop prior to approaching ,SUB-64,10201,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:46,12-12-2016 21:48,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvi,,,,Not started,
+Ability to account for student passengers using Beacon technology,SUB-65,10202,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:46,12-12-2016 21:48,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvr,,,,Not started,
+Ability to be alerted if un accounted student passenger i.e. fails to board bus,SUB-66,10203,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:47,12-12-2016 21:48,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvxi,,,,Not started,
+Ability to be alerted if student passenger is delivered or gets off wrong stop,SUB-67,10204,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:47,12-12-2016 21:48,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvx,,,,Not started,
+Ability to be alerted if student passenger is not given to correct parent/guardian ,SUB-68,10205,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:48,12-12-2016 21:48,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvy,,,,Not started,
+Ability to message school transport coordinator,SUB-69,10206,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:49,12-12-2016 21:50,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvz,,,,Not started,
+Ability to receive message from school transport coordinator,SUB-70,10207,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:50,12-12-2016 21:50,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-30,,,,,,0|i0003l:qvzi,,,,Not started,
+Ability to view whereabouts of bus location and completed stops,SUB-71,10208,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:52,12-12-2016 21:52,13-02-2017 08:54,,Bus Route Execution,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qz,,,,Not started,
+"Ability to receive message that bus is 5, 10 mins prior to bus arriving at bus stop",SUB-72,10209,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:53,12-12-2016 21:55,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qzi,,,,Not started,
+Ability to receive message that the bus has successfully on/off boarded student,SUB-73,10210,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:53,12-12-2016 21:55,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qzr,,,,Not started,
+Ability to send text notification that a student is not requiring bus ,SUB-74,10211,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:53,12-12-2016 21:55,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qzv,,,,Not started,
+Ability to turn on/off messages ,SUB-75,10212,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:54,12-12-2016 21:55,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qzx,,,,Not started,
+"Ability to view details of my designated bus driver, bus assistant and school transport office",SUB-76,10213,Story,To Do,SUB,SUB,software,admin,,,Medium,,,ben.tee,ben.tee,12-12-2016 21:54,12-12-2016 21:55,13-02-2017 08:54,,Communication,,0,,,ben.tee,,,,,,,,,{},,SUB-25,,,,,,0|i0003l:qzy,,,,Not started,
